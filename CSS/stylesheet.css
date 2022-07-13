@@ -1,0 +1,79 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+  display: flex;
+  flex-direction: column;
+  border: #343330;
+}
+
+header {
+  text-align: center;
+  background-color: #b99118;
+  color: #FCF7F8;
+  justify-content: center;
+}
+
+#heading{
+  font-family: sans-serif;
+  font-size: 110%;
+  background-color: gray;
+}
+
+#Ethanphoto{
+  width: 20%;
+  height: 30%;
+  border-radius: 50%;
+  border: 3px solid red;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  overflow: unset;
+}
+
+.nav-menu {
+  list-style-type: none;
+  padding:0%;
+}
+
+#sidebar {
+  background-color: greenyellow;
+  width: 15%;
+  color: white;
+  padding: 1rem;
+}
+
+.icons {
+  width: 4rem;
+  margin: 1rem;
+  height: auto;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
+
+#Education{
+  background-color: #045d13;
+  width: 50%;
+  color: #FCF7F8;
+}
+
+#Experience{
+  background-color: #045d13;
+  width: 50%;
+  color: #FCF7F8;
+}
+#Skills{
+  background-color: #045d13;
+  width: 50%;
+  color: #FCF7F8;
+}
+#Contactdetails{
+  background-color: #045d13;
+  width: 50%;
+  color: #FCF7F8;
+}
